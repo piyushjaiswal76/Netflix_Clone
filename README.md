@@ -36,11 +36,5 @@ A Netflix clone is a video streaming app that offers a similar user experience a
 
 Clone the repo in your terminal writting:
 ```
-git clone https://github.com/Kumardinesh1908/Netflix-Clone.git
-```
-
-## Demo
-
-```
-https://netflix-clone-five-neon.vercel.app/
+https://github.com/piyushjaiswal76/Netflix_Clone.git
 ```
